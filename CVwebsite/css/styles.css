@@ -1,0 +1,96 @@
+/*
+font-family: 'Bebas Neue', cursive;
+font-family: 'Forum', cursive;
+font-family: 'Inconsolata', monospace;
+font-family: 'Inter', sans-serif;
+background-image: linear-gradient(to right, rgba(127, 33, 34, 1),
+                                                    rgba(127, 33, 34, 0.85), rgba(127, 33, 34, 1));
+
+*/
+
+            body {
+                /* background-color: rgba(127, 33, 34, 0.9); */
+                background-image: linear-gradient(to right, rgb(89,14,33),
+                                                    rgb(89,14,33, 0.85), rgb(89,14,33));
+                text-align: center;
+                font-family: 'Inter', sans-serif;
+                font-size:1.5rem;
+                padding-left: 0%;
+                padding-right: 0%;
+                line-height:2 ;
+
+                } /* #7F2122 */
+            .work-exp {
+                font-family: 'Inter', sans-serif;
+                color: 	rgb(243,193,117); /* 	(238,232,232) rgba(197,174,79,1)*/
+                font-size:0.7rem;
+                text-align:left;
+                padding-left: 20%;
+                padding-right: 20%;
+
+                }
+            .exp-row {
+                font-family: 'Inter', sans-serif;
+                color: 	rgba(197,174,79,1); /* 	(238,232,232) */
+                font-size:0.7rem;
+                text-align:left;
+                }
+            .siren-img {
+                width: 33%;
+                float: right;
+                margin-left: 30px;
+                }
+            .amzn-img {
+                width: 33%;
+                float: left;
+                margin-right: 30px;
+                }
+
+
+            .vid-header {
+                padding-left: -20%;
+                padding-right: -20%;
+                }
+            hr {
+                background-color: rgba(255,215,0,0.75);
+                border-style: none;
+                height: 5px;
+                width: 30%;
+                }
+
+            h1 {
+                font-family: 'Bebas Neue', cursive;
+                font-size: 4rem;
+                color: rgba(255,215,0,0.75);
+                margin: 0 auto 0 auto ;
+                }
+
+            h3 {
+                color: rgba(255,215,0,0.5)
+                }
+
+            table, td {
+                    border: 1px solid #333;
+            }
+
+            #heading {
+                color: rgba(255,215,0,1);
+                }
+
+            .circular {
+                border-radius: 100%;
+                }
+
+            .work {
+                font-family: 'Inter', sans-serif;
+                color: 	rgba(197,174,79,1); /* 	(238,232,232) */
+                font-size:0.7rem;
+                text-align:left;
+
+                }
+            .work-list {
+                font-family: 'Inter', sans-serif;
+                color: 	black; /* 	(238,232,232) */
+                font-size:0.7rem;
+                text-align:left;
+                }
